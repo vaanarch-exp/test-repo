@@ -38,6 +38,12 @@ Assignment: [Python Web Scraping Tutorial using BeautifulSoup](https://www.dataq
 
 ### Week 4 - Sep 27
 
+* More on python functions
+* Simple I/O
+* JSON and CSV
+
+In class web scraping assignment extracting a short dataset writing to a CSV file
+
 ### Week 5 - Oct 4
 
 ### Week 6 - Oct 11 (Midterm reviews, Session 2)
