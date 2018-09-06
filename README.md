@@ -6,8 +6,8 @@ Over the course of the semester, students will develop research projects on any 
 &nbsp;
 &nbsp;
 
-+ **More specific deliverables will be assigned to each team based on their project as the studio progresses.**
-+ **The schedule might be modified as the seminar progresses**
+&#65121; **More specific deliverables will be assigned to each team based on their project as the studio progresses.**
+&#65121; **The schedule might be modified as the seminar progresses**
 
 
 ## Schedule
