@@ -82,19 +82,20 @@ In class web scraping assignment: extracting a short dataset writing to a CSV fi
 ### Week 10 - Nov 8
 
 * Optional lab/desk crits, other experimentations
+* Final project proposals / presentations
 
 ### Week 11 - Nov 15
 
-* lab/desk crits, other experimentations
+* Lab/desk crits, other experimentations
 
 ### Week 12 - Nov 22 (Thanksgiving Holidays Uni is Closed)
 
 ### Week 13 - Nov 29
 
-* lab/desk crits
+* Lab/desk crits
 
 ### Week 14 - Dec 6
 
-* optional lab/desk crits
+* Optional lab/desk crits
 
 ### Week 15 - Dec 15 (Final Presentations 1:30 - 3:30 PM)
