@@ -19,9 +19,9 @@ Over the course of the semester, students will develop research projects on any 
     * Pip and virtual environments
     * Basic git
 * Basics of HTML and CSS
-* Chrome DEV tools
+* Chrome DevTools
 * Document Object Model
-* *presentation slot*
+* - presentation slot
 
 ### Week 2 - Sep 13
 
