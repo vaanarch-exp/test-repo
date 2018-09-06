@@ -21,7 +21,8 @@ Over the course of the semester, students will develop research projects on any 
 * Basics of HTML and CSS
 * Chrome DevTools
 * Document Object Model
-* - presentation slot
+
+* presentation slot
 
 ### Week 2 - Sep 13
 
