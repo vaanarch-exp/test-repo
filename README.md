@@ -79,6 +79,12 @@ In class web scraping assignment: extracting a short dataset writing to a CSV fi
 * Image manipulation
 * Scraping a video
 
+Refrences: </br>
+[FFMpeg](https://ffmpeg.org/about.html)</br>
+[MoviePy](http://zulko.github.io/moviepy/)
+[Pillow](https://pillow.readthedocs.io/en/4.0.x/)
+[ImageMagick](https://www.imagemagick.org/script/index.php)
+
 ### Week 10 - Nov 8
 
 * Optional lab/desk crits, other experimentations
