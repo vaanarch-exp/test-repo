@@ -34,7 +34,7 @@ Over the course of the semester, students will develop research projects on any 
 * Loops
 * Functions
 
-Assignment: [Python Web Scraping Tutorial using BeautifulSoup][https://www.dataquest.io/blog/web-scraping-tutorial-python/] 
+Assignment: [Python Web Scraping Tutorial using BeautifulSoup](https://www.dataquest.io/blog/web-scraping-tutorial-python/) 
 
 ### Week 4 - Sep 27
 
