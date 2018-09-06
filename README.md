@@ -18,7 +18,9 @@ Over the course of the semester, students will develop research projects on any 
     * Basic shell commands
     * Pip and virtual environments
     * Basic git
-* Basics of HTML, CSS and DOM
+* Basics of HTML and CSS
+* Chrome DEV tools
+* Document Object Model (editing elements and subelements)
 * presentation slot
 
 ### Week 2 - Sep 13
