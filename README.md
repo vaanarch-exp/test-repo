@@ -13,6 +13,14 @@ Over the course of the semester, students will develop research projects on any 
 
 ### Week 1 - Sep 4
 
+* Getting Started
+    * Installing Python + Editors
+    * Basic shell commands
+    * Pip and virtual environments
+    * Basic git
+* Basics of HTML, CSS and DOM
+* presentation slot
+
 ### Week 2 - Sep 13
 
 ### Week 3 - Sep 20
