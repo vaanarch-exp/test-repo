@@ -1,5 +1,7 @@
 # Architecting Anthropoveillance
 
+Over the course of the semester, students will develop research projects on any particular object, technology, protocol, policy or an event they found to be expanding/related to the concepts and arguments of this project, unfolded during the theory sessions through various texts. The primary purpose of these workshops is to expand the possible array of artifacts for analysis. Additionally, students will develop skills in basic python programming, they will learn data mining techniques such as web scraping, and develop ideas on various visualization techniques and methodologies.
+
 * **More specific deliverables will be assigned to each team based on their project as the studio progresses.**
 * **The schedule might be modified as the seminar progresses**
 
