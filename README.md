@@ -49,11 +49,29 @@ In class web scraping assignment: extracting a short dataset writing to a CSV fi
 
 ### Week 5 - Oct 4
 
+* intro to the API
+* parsing JSON, CSV in Rhino-Grashopper
+
 ### Week 6 - Oct 11 (Midterm reviews, Session 2)
 
 ### Week 7 - Oct 18
 
+* Web Based Mapping
+    * QGIS
+    * CARTO DB
+    * MapBox
+
 ### Week 8 - Oct 25
+
+* OOP General Concepts
+    * Objects
+    * The Class keyword
+    * Instance attributes / fields / data members
+    * Class object attributes
+    * Methods / member functions
+    * Bound and unbound method calls
+    * Static and class method
+* Selenium and other Automation methods
 
 ### Week 9 - Nov 1
 
