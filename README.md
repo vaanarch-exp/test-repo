@@ -1,7 +1,11 @@
 # Architecting Anthropoveillance
 
-### * More specific deliverables will be assigned to each team based on their project as the studio progresses.
-### * The schedule might be modified as the seminar progresses
+* **More specific deliverables will be assigned to each team based on their project as the studio progresses.**
+* **The schedule might be modified as the seminar progresses**
+
+&nbsp;
+&nbsp;
+&nbsp;
 
 ## Schedule
 
