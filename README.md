@@ -33,7 +33,6 @@ Over the course of the semester, students will develop research projects on any 
 * Conditionals / flow control
 * Loops
 * Functions
-
 Assignments: 
 * [First Python Web Scraping Tutorial using BeautifulSoup](https://www.dataquest.io/blog/web-scraping-tutorial-python/)  
 * [Second Tutorial](https://first-web-scraper.readthedocs.io/en/latest/)
