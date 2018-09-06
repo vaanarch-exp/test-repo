@@ -28,6 +28,12 @@ Over the course of the semester, students will develop research projects on any 
 
 ### Week 3 - Sep 20
 
+* Python basic types / Variables
+* Expressions and operators
+* Conditionals / flow control
+* Loops
+* Functions
+
 ### Week 4 - Sep 27
 
 ### Week 5 - Oct 4
