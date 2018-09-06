@@ -36,7 +36,7 @@ Over the course of the semester, students will develop research projects on any 
 
 Assignments: </br>
 [First Python Web Scraping Tutorial using BeautifulSoup](https://www.dataquest.io/blog/web-scraping-tutorial-python/) </br> 
-[Second Tutorial](https://first-web-scraper.readthedocs.io/en/latest/) </br></br>
+[Second Tutorial](https://first-web-scraper.readthedocs.io/en/latest/) </br>
 
 References: </br>
 [BeautifulSoup Documentation](https://www.crummy.com/software/BeautifulSoup/)
