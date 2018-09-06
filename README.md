@@ -76,14 +76,25 @@ In class web scraping assignment: extracting a short dataset writing to a CSV fi
 
 ### Week 9 - Nov 1
 
+* Image manipulation
+* Scraping a video
+
 ### Week 10 - Nov 8
+
+* lab day, other experimentations
 
 ### Week 11 - Nov 15
 
-### Week 12 - Nov 22 (Thanksgiving Holidays)
+* lab day, other experimentations
+
+### Week 12 - Nov 22 (Thanksgiving Holidays Uni is Closed)
 
 ### Week 13 - Nov 29
 
+* lab day
+
 ### Week 14 - Dec 6
+
+* optional lab day
 
 ### Week 15 - Dec 15 (Final Presentations 1:30 - 3:30 PM)
