@@ -74,8 +74,10 @@ In class web scraping assignment: extracting a short dataset writing to a CSV fi
     * Static and class method
 * Selenium and other Automation methods
 
-Assignments:
-[Another Web Scraping Tutorial](https://automatetheboringstuff.com/chapter11/)
+Assignments:</br>
+[Another Web Scraping Tutorial](https://automatetheboringstuff.com/chapter11/)</br>
+References:</br>
+[Selenium Documentation](https://selenium-python.readthedocs.io/)
 
 ### Week 9 - Nov 1
 
