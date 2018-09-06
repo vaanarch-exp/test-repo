@@ -13,6 +13,10 @@ Over the course of the semester, students will develop research projects on any 
 
 ### Week 1 - Sep 4
 
+* Course Introduction / a working hypothesis 
+
+### Week 2 - Sep 13
+
 * Getting Started
     * Installing Python + Editors
     * Basic shell commands
@@ -23,8 +27,6 @@ Over the course of the semester, students will develop research projects on any 
 * Document Object Model
 
 * presentation slot
-
-### Week 2 - Sep 13
 
 ### Week 3 - Sep 20
 
