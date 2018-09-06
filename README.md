@@ -24,9 +24,7 @@ Over the course of the semester, students will develop research projects on any 
     * Basic git
 * Basics of HTML and CSS
 * Chrome DevTools
-* Document Object Model
-
-* presentation slot
+    * Document Object Model
 
 ### Week 3 - Sep 20
 
