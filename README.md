@@ -42,6 +42,7 @@ Assignments: </br>
 
 * More on python functions
 * Simple I/O
+* Exception handling
 * JSON and CSV
 
 In class web scraping assignment: extracting a short dataset writing to a CSV file
