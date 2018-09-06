@@ -81,9 +81,9 @@ In class web scraping assignment: extracting a short dataset writing to a CSV fi
 
 Refrences: </br>
 [FFMpeg](https://ffmpeg.org/about.html)</br>
-[MoviePy](http://zulko.github.io/moviepy/)
-[Pillow](https://pillow.readthedocs.io/en/4.0.x/)
-[ImageMagick](https://www.imagemagick.org/script/index.php)
+[MoviePy](http://zulko.github.io/moviepy/)</br>
+[Pillow](https://pillow.readthedocs.io/en/4.0.x/) </br>
+[ImageMagick](https://www.imagemagick.org/script/index.php) </br>
 
 ### Week 10 - Nov 8
 
