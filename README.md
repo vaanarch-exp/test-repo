@@ -60,6 +60,7 @@ In class web scraping assignment: extracting a short dataset writing to a CSV fi
     * QGIS
     * CARTO DB
     * MapBox
+* DataViz Taxonomies
 
 ### Week 8 - Oct 25
 
