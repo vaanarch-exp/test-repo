@@ -36,7 +36,10 @@ Over the course of the semester, students will develop research projects on any 
 
 Assignments: </br>
 [First Python Web Scraping Tutorial using BeautifulSoup](https://www.dataquest.io/blog/web-scraping-tutorial-python/) </br> 
-[Second Tutorial](https://first-web-scraper.readthedocs.io/en/latest/)
+[Second Tutorial](https://first-web-scraper.readthedocs.io/en/latest/) </br></br>
+
+References: </br>
+[BeautifulSoup Documentation](https://www.crummy.com/software/BeautifulSoup/)
 
 ### Week 4 - Sep 27
 
@@ -75,7 +78,7 @@ In class web scraping assignment: extracting a short dataset writing to a CSV fi
 * Selenium and other Automation methods
 
 Assignments:</br>
-[Another Web Scraping Tutorial](https://automatetheboringstuff.com/chapter11/)</br>
+[Another Web Scraping Tutorial](https://automatetheboringstuff.com/chapter11/)</br></br>
 References:</br>
 [Selenium Documentation](https://selenium-python.readthedocs.io/)
 
